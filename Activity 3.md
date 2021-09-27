@@ -1,8 +1,29 @@
 ## testing 
 
 
-![alt text](api2.PNG)
+![alt text](test-1.PNG)
+this test for local server we sent a request  to give us data about home page  
 
 
 
-as we can see here we chose amman and gave us information about amman and photo and in the console gave us information about weather in 3 days
+
+
+![alt text](test-2.PNG)
+
+
+this test to test the api ,we sent a request and back to us data as we can see 
+
+
+
+
+
+
+![alt text](test-3.PNG)
+
+
+this is the final result with consol show there is no errors 
+
+
+
+
+
